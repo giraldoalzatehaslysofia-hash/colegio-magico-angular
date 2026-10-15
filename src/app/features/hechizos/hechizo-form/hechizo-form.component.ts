@@ -46,3 +46,4 @@ export class HechizoForm {
     });
   }
 }
+//Reto 6 completado: HechizoForm con validaciones y manejo de errores.
